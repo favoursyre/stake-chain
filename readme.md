@@ -13,7 +13,7 @@
 
 ## Overview
 
-This script allows a user to stake ether for a range of period in other to earn a stipulated ROI
+This is a defi protocol that allows a user to stake ether for a range of period in other to earn a stipulated ROI
 
 ## Features
 
